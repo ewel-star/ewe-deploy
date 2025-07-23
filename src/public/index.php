@@ -1,3 +1,5 @@
+<h1>Mi pagina de test</h1>
+
 <?php
 if (file_exists(__DIR__ . '/../config/db.php')) {
     echo "ejecución en local <br>";
